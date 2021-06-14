@@ -9,7 +9,7 @@ Data_Engineering_TIL(20200521)
 #### STEP 2) 아래 코드와 같은 양식으로 명령어를 실행하여 EMR 클러스터를 실행한다.
 
 
-```console
+```bash
 $ pwd
 /home/minman
 
